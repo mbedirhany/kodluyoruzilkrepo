@@ -1,5 +1,5 @@
 # **Kodluyoruz Ilk Repo**
-Kodluyoruz Eğitimi kapsamında eğitimlerde açtığım ilk repo. İçeriisnde bir adet README dosyası bir adet de index.html barındırıyor
+Kodluyoruz Eğitimi kapsamında eğitimlerde açtığım ilk repo. İçerisinde bir adet README dosyası bir adet de index.html barındırıyor
 -----------------------------
 # **Proje Resmi**
 ![](https://imgyukle.com/f/2022/10/31/JksT0f.jpg)
